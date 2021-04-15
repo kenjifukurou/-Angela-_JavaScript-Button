@@ -1,0 +1,27 @@
+.w-btn {
+  color: red;
+  font-size: 14px;
+  font-weight: bold;
+  text-shadow: 0 3px 3px rgba(0,0,0,0.33);
+}
+
+.s-btn {
+  color: green;
+  font-size: 14px;
+  font-weight: bold;
+  text-shadow: 0 3px 3px rgba(0,0,0,0.33);
+}
+
+.a-btn {
+  color: blue;
+  font-size: 14px;
+  font-weight: bold;
+  text-shadow: 0 3px 3px rgba(0,0,0,0.33);
+}
+
+.d-btn {
+  color: yellow;
+  font-size: 14px;
+  font-weight: bold;
+  text-shadow: 0 3px 3px rgba(0,0,0,0.33);
+}
